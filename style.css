@@ -1,0 +1,35 @@
+body {
+    background-color: #87b1db;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+#mensagem {
+    font-size: 1.3em;
+    min-height: 50px;
+    margin: 20px 0;
+    color: #02090f;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 1.1em;
+    background-color: #3498db;
+    color: rgb(10, 6, 6);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #0d3149;
+    transform: scale(1.05);
+}
